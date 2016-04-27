@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./qhoratiiflaccio00azargoog_0127.png"; bbox 0 0 883 1304; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 262 146 610 171">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 262 146 610 171">
+     <span class='ocr_line' id='line_1_1' title="bbox 262 146 610 171; baseline 0.003 -7"><span class='ocrx_word' id='word_1_1' title='bbox 262 146 288 171; x_wconf 76' lang='grc'>96</span> <span class='ocrx_word' id='word_1_2' title='bbox 380 151 401 169; x_wconf 75' lang='lat' dir='ltr'><strong>Q</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 416 151 514 165; x_wconf 66' lang='lat' dir='ltr'><strong>nolum}</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 529 151 610 165; x_wconf 68' lang='lat' dir='ltr'><strong>rmAccl</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 308 183 659 290">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 308 183 659 290">
+     <span class='ocr_line' id='line_1_2' title="bbox 308 183 609 206; baseline 0 -7"><span class='ocrx_word' id='word_1_5' title='bbox 308 185 357 204; x_wconf 66' lang='lat' dir='ltr'>Quum</span> <span class='ocrx_word' id='word_1_6' title='bbox 367 184 381 199; x_wconf 70' lang='lat' dir='ltr'>ui</span> <span class='ocrx_word' id='word_1_7' title='bbox 390 183 467 199; x_wconf 71' lang='lat' dir='ltr'>clientum</span> <span class='ocrx_word' id='word_1_8' title='bbox 477 183 526 206; x_wconf 69' lang='lat' dir='ltr'><strong>longn</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 535 184 609 206; x_wconf 60' lang='lat' dir='ltr'>negotia,</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 308 213 567 236; baseline 0 -7"><span class='ocrx_word' id='word_1_10' title='bbox 308 213 403 230; x_wconf 73' lang='lat' dir='ltr'>Diindicna</span> <span class='ocrx_word' id='word_1_11' title='bbox 412 213 450 233; x_wconf 74' lang='lat' dir='ltr'>lite,</span> <span class='ocrx_word' id='word_1_12' title='bbox 460 213 567 236; x_wconf 73' lang='lat' dir='ltr'>relinqueret,</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 332 242 603 266; baseline 0 -7"><span class='ocrx_word' id='word_1_13' title='bbox 332 243 405 259; x_wconf 65' lang='lat' dir='ltr'>Tendens!</span> <span class='ocrx_word' id='word_1_14' title='bbox 416 242 514 260; x_wconf 66' lang='lat' dir='ltr'>Veufnuon</span> <span class='ocrx_word' id='word_1_15' title='bbox 523 244 539 259; x_wconf 83' lang='lat' dir='ltr'>in</span> <span class='ocrx_word' id='word_1_16' title='bbox 548 249 603 266; x_wconf 67' lang='lat' dir='ltr'>ugron,</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 381 273 659 290; baseline 0 -1"><span class='ocrx_word' id='word_1_17' title='bbox 381 274 413 289; x_wconf 69' lang='lat' dir='ltr'>Aut</span> <span class='ocrx_word' id='word_1_18' title='bbox 424 273 555 290; x_wconf 67' lang='lat' dir='ltr'>lacedemoniam</span> <span class='ocrx_word' id='word_1_19' title='bbox 565 274 659 290; x_wconf 70' lang='lat' dir='ltr'>&#39;ruem-m.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./qhoratiiflaccio00azargoog_0231.png"; bbox 0 0 883 1304; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 240 163 671 301">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 240 163 671 276">
+     <span class='ocr_line' id='line_1_1' title="bbox 240 163 667 181; baseline 0.002 -4"><span class='ocrx_word' id='word_1_1' title='bbox 240 165 279 177; x_wconf 76' lang='lat'>200</span> <span class='ocrx_word' id='word_1_2' title='bbox 301 164 320 181; x_wconf 81' lang='lat' dir='ltr'>Q·</span> <span class='ocrx_word' id='word_1_3' title='bbox 336 163 390 177; x_wconf 63' lang='grc' dir='ltr'>ΗΘΚ.</span> <span class='ocrx_word' id='word_1_4' title='bbox 405 163 487 177; x_wconf 74' lang='lat' dir='ltr'>FLACCI</span> <span class='ocrx_word' id='word_1_5' title='bbox 504 163 572 177; x_wconf 67' lang='lat' dir='ltr'>cnm-</span> <span class='ocrx_word' id='word_1_6' title='bbox 588 164 667 178; x_wconf 65' lang='lat' dir='ltr'><strong>SECVL·</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 286 195 641 218; baseline 0 -6"><span class='ocrx_word' id='word_1_7' title='bbox 286 197 331 212; x_wconf 76' lang='lat' dir='ltr'>Haec</span> <span class='ocrx_word' id='word_1_8' title='bbox 341 197 395 212; x_wconf 76' lang='lat' dir='ltr'><strong>lovem</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 405 195 474 216; x_wconf 69' lang='lat' dir='ltr'>uenire,</span> <span class='ocrx_word' id='word_1_10' title='bbox 484 197 558 218; x_wconf 75' lang='lat' dir='ltr'>Demque</span> <span class='ocrx_word' id='word_1_11' title='bbox 568 201 641 216; x_wconf 67' lang='lat' dir='ltr'>cunctos,</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 289 225 671 248; baseline 0 -6"><span class='ocrx_word' id='word_1_12' title='bbox 289 227 335 248; x_wconf 77' lang='lat' dir='ltr'>Spem</span> <span class='ocrx_word' id='word_1_13' title='bbox 346 225 411 245; x_wconf 71' lang='lat' dir='ltr'><strong>honam,</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 422 230 515 248; x_wconf 79' lang='lat' dir='ltr'>cenamque</span> <span class='ocrx_word' id='word_1_15' title='bbox 525 226 588 242; x_wconf 72' lang='lat' dir='ltr'><strong>domum</strong></span> <span class='ocrx_word' id='word_1_16' title='bbox 599 230 671 247; x_wconf 74' lang='lat' dir='ltr'><strong>repono,</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 290 255 649 276; baseline -0.003 -4"><span class='ocrx_word' id='word_1_17' title='bbox 290 256 359 276; x_wconf 73' lang='lat' dir='ltr'>Docnu,</span> <span class='ocrx_word' id='word_1_18' title='bbox 370 260 385 272; x_wconf 75' lang='lat' dir='ltr'>et</span> <span class='ocrx_word' id='word_1_19' title='bbox 397 255 467 274; x_wconf 81' lang='lat' dir='ltr'>Phoebi,</span> <span class='ocrx_word' id='word_1_20' title='bbox 477 255 543 275; x_wconf 67' lang='lat' dir='ltr'>chorus,</span> <span class='ocrx_word' id='word_1_21' title='bbox 552 260 569 271; x_wconf 80' lang='lat' dir='ltr'>et</span> <span class='ocrx_word' id='word_1_22' title='bbox 580 256 649 274; x_wconf 66' lang='lat' dir='ltr'>Dianae,</span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 374 284 505 301">
+     <span class='ocr_line' id='line_1_5' title="bbox 374 284 505 301; baseline 0 0"><span class='ocrx_word' id='word_1_23' title='bbox 374 285 431 301; x_wconf 66' lang='lat' dir='ltr'>Dieuc</span> <span class='ocrx_word' id='word_1_24' title='bbox 441 284 505 301; x_wconf 71' lang='lat' dir='ltr'>lauden.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./qhoratiiflaccio00azargoog_0059.png"; bbox 0 0 883 1304; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 257 163 616 189">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 257 163 616 189">
+     <span class='ocr_line' id='line_1_1' title="bbox 257 163 616 189; baseline 0.003 -6"><span class='ocrx_word' id='word_1_1' title='bbox 257 165 282 183; x_wconf 84' lang='lat'>28</span> <span class='ocrx_word' id='word_1_2' title='bbox 376 171 396 189; x_wconf 75' lang='lat' dir='ltr'>q.</span> <span class='ocrx_word' id='word_1_3' title='bbox 411 170 510 184; x_wconf 68' lang='lat' dir='ltr'>annun</span> <span class='ocrx_word' id='word_1_4' title='bbox 526 163 616 184; x_wconf 63' lang='lat' dir='ltr'>ruens</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 305 203 676 316">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 305 203 676 316">
+     <span class='ocr_line' id='line_1_2' title="bbox 305 203 615 226; baseline -0.003 -6"><span class='ocrx_word' id='word_1_5' title='bbox 305 205 382 226; x_wconf 78' lang='lat' dir='ltr'><strong>Suspem</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 392 204 462 226; x_wconf 82' lang='lat' dir='ltr'>Cyrum,</span> <span class='ocrx_word' id='word_1_7' title='bbox 473 208 493 219; x_wconf 79' lang='lat' dir='ltr'>ne</span> <span class='ocrx_word' id='word_1_8' title='bbox 504 204 544 220; x_wconf 72' lang='lat' dir='ltr'>male</span> <span class='ocrx_word' id='word_1_9' title='bbox 554 203 615 226; x_wconf 71' lang='lat' dir='ltr'>dispari</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 306 234 577 253; baseline 0 -3"><span class='ocrx_word' id='word_1_10' title='bbox 306 235 426 250; x_wconf 76' lang='lat' dir='ltr'>lucontinenten</span> <span class='ocrx_word' id='word_1_11' title='bbox 439 234 504 250; x_wconf 71' lang='lat' dir='ltr'>iniieiaz</span> <span class='ocrx_word' id='word_1_12' title='bbox 514 240 577 253; x_wconf 69' lang='lat' dir='ltr'>munzun,</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 324 263 609 280; baseline 0.004 -1"><span class='ocrx_word' id='word_1_13' title='bbox 324 265 351 280; x_wconf 70' lang='lat' dir='ltr'>,Et</span> <span class='ocrx_word' id='word_1_14' title='bbox 361 263 423 280; x_wconf 65' lang='lat' dir='ltr'>scindat</span> <span class='ocrx_word' id='word_1_15' title='bbox 433 263 525 279; x_wconf 69' lang='lat' dir='ltr'>haerentem</span> <span class='ocrx_word' id='word_1_16' title='bbox 536 269 609 280; x_wconf 72' lang='lat' dir='ltr'>coruum</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 379 293 676 316; baseline 0 -7"><span class='ocrx_word' id='word_1_17' title='bbox 379 293 462 313; x_wconf 69' lang='lat' dir='ltr'>Crinibus,</span> <span class='ocrx_word' id='word_1_18' title='bbox 472 294 599 316; x_wconf 73' lang='lat' dir='ltr'>immeritamque</span> <span class='ocrx_word' id='word_1_19' title='bbox 608 298 666 310; x_wconf 76' lang='lat' dir='ltr'>venem</span> <span class='ocrx_word' id='word_1_20' title='bbox 672 305 676 309; x_wconf 88' lang='lat'>.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
